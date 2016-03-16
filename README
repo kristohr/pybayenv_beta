@@ -1,3 +1,5 @@
+#PyBayenv must be run on a Linux computer.
+
 #Run
 source pybayenv.conf
 
